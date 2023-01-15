@@ -13,3 +13,9 @@ fun clicMy_4(view:View){
 fun clicMy_5(view:View){
     finish()
 }
+fun clicMy_6(view:View){
+    finish()
+}
+fun clicMy_7(view:View){
+    finish()
+}
